@@ -1,7 +1,7 @@
 # Hello👋, I'm Fazza
 I am a Fullstack developer, mainly work on Frontend. 
 - ⚡ I strive to make high quality and accessible software, so everyone can enjoy the software.
-- 📑 I love to share my knowledge by sharing it on my blog.
+- 📑 I love to share my knowledge by sharing it on [my blog](https://fazzaamiarso.hashnode.dev/).
 - 🤗 I help other developers on [frontendmentor.io](https://www.frontendmentor.io/) when I have free time.
 
 ## Tech Stack
