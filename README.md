@@ -1,6 +1,6 @@
 # Hello👋, I'm Fazza
 I am a Fullstack developer, mainly work on Frontend. An open source enthusiast.
-- ⚡ I strive to make high quality and accessible software, so everyone can enjoy the software.
+- ⚡ I strive to make high quality and accessible software that everyone can enjoy.
 - 📑 I love to share my knowledge by sharing it on [my blog](https://fazzaamiarso.me/blog).
 - 🤗 I help other developers on [frontendmentor.io](https://www.frontendmentor.io/) when I have free time.
 
