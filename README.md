@@ -1,8 +1,11 @@
 # Hello👋, I'm Fazza
 I am a Fullstack developer, mainly work on Frontend. An open source enthusiast.
-- ⚡ I strive to make high quality and accessible software that everyone can enjoy.
-- 📑 I love to share my knowledge by sharing it on [my blog](https://fazzaamiarso.me/blog).
-- 🤗 I help other developers on [frontendmentor.io](https://www.frontendmentor.io/) when I have free time.
+
+⚡ I strive to make high quality and accessible software that everyone can enjoy.
+
+📑 I love to share my knowledge by sharing it on [my blog](https://fazzaamiarso.me/blog).
+
+🤗 I help other developers on [frontendmentor.io](https://www.frontendmentor.io/) when I have free time.
 
 ## Tech Stack
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
