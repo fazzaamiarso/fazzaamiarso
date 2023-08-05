@@ -1,5 +1,5 @@
 # Hello👋, I'm Fazza
-I am a Fullstack developer, mainly work on Frontend. An open source enthusiast.
+I am a Frontend developer that's full-stack capable. An open source enthusiast.
 
 ⚡ I strive to make high quality and accessible software that everyone can enjoy.
 
